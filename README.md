@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/4abd11a0-cf7d-4588-8dcd-14d354e64e46)
 
+**Не забудьте подписаться на мой Telegram-канал <a href="https://t.me/craftseo">Крафтовое SEO</a>.**
+
 <h2>Установка Tampermonkey</h2>
 <ol>
   <li>Скачиваем сам плагин для Google Chrome - <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">tampermonkey</a></li>
